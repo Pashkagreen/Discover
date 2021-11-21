@@ -78,7 +78,7 @@ nav a:hover {
 }
 .home {
   min-height: 915px;
-  background: url(/img/back2.jpeg) center/cover;
+  background: url(../img/back2.jpeg) center/cover;
 }
 .home-container {
   flex-direction: column;
